@@ -16,3 +16,4 @@ public class JoinsApplication {
         SpringApplication.run(JoinsApplication.class, args);
     }
 }
+

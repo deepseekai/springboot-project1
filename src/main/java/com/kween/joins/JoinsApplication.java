@@ -14,6 +14,8 @@ public class JoinsApplication {
 
         LOGGER.info("JoinsApplication start");
         SpringApplication.run(JoinsApplication.class, args);
+        LOGGER.info("JoinsApplication end");
+        System.exit(0);
     }
 }
 
